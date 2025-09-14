@@ -145,7 +145,7 @@ function LoreChip({ onFound }: { onFound: () => void }) {
   );
 }
 
-function JuiceOrb({ reduced }: { reduced: boolean }) {
+s function JuiceOrb({ reduced }: { reduced: boolean }) {
   return (
     <div className="relative aspect-square w-full max-w-md mx-auto">
       <motion.div
