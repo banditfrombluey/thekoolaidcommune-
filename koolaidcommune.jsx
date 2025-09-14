@@ -686,7 +686,7 @@ function NotFound() {
   return (
     <motion.div variants={pageVariants} initial="initial" animate="animate" exit="exit" className="max-w-2xl mx-auto px-4 py-20 text-center">
       <h1 className="text-4xl font-extrabold">404</h1>
-      <p className="text-zinc-600">The page you’re looking for evaporated into the punch bowl.</p>
+      <p className="text-zinc-600">The page you’re looking for evaporated into the punch bowl, maybe punch jones has it? that cunt.....</p>
       <div className="mt-4">
         <Link className="underline" to="/">
           Back to Home
